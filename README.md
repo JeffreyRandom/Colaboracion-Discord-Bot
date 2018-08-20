@@ -5,9 +5,9 @@ Colaboración entre Jeffrey & Briggs para crear un bot totalmente en español.
 Seleccionamos unos cuantos comandos de cada area:
 	
   # Moderacion
-	-Warn
-	-Ban
-	-y otras mamadas
+  -Warn
+  -Ban
+  -y otras mamadas
   # Divercion
    -Bleh
   # Economia
