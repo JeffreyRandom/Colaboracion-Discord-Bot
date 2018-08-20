@@ -6,12 +6,16 @@
 Colaboración entre Jeffrey & Briggs para crear un bot totalmente en español.
 
 ## Comandos
-Moderacion (kick/ban/softban/etc)
-Juegos (casino/trivias/etc)
-Economia (Tienda/Dinero/Banco/Trabajar/etc)
-Otros (Ayuda/Ping/etc)
-## Otros Comandos
-Bienvenido
-Efectos de Sonido
-Niveles
-y mucho mas!
+* Moderacion (kick/ban/softban/etc)
+* Juegos (casino/trivias/etc)
+* Economia (Tienda/Dinero/Banco/Trabajar/etc)
+* Otros (Ayuda/Ping/etc)
+### Otros Comandos
+* Bienvenido
+* Efectos de Sonido
+* Niveles
+* y mucho mas!
+
+
+## Comunidad
+>Nothing here yet
